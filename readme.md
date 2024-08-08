@@ -1,4 +1,4 @@
-# Maze Solver
+# Path finder
 
 ## Overview
 
